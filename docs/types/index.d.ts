@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import iterators = require( '@stdlib/simulate/iter' );
+import iterators = require( './../../iter' );
 
 /**
 * Interface describing the `simulate` namespace.

@@ -18,7 +18,7 @@
 
 'use strict';
 
-var iterSineWave = require( '@stdlib/simulate/iter/sine-wave' );
+var iterSineWave = require( './../../../iter/sine-wave' );
 var iterawln = require( './../lib' );
 
 // Create an iterator for generating a sine wave:

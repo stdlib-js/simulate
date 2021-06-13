@@ -43,7 +43,7 @@ var ns = {};
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/awgn}
 */
-setReadOnly( ns, 'iterawgn', require( '@stdlib/simulate/iter/awgn' ) );
+setReadOnly( ns, 'iterawgn', require( './../../iter/awgn' ) );
 
 /**
 * @name iterawln
@@ -52,7 +52,7 @@ setReadOnly( ns, 'iterawgn', require( '@stdlib/simulate/iter/awgn' ) );
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/awln}
 */
-setReadOnly( ns, 'iterawln', require( '@stdlib/simulate/iter/awln' ) );
+setReadOnly( ns, 'iterawln', require( './../../iter/awln' ) );
 
 /**
 * @name iterawun
@@ -61,7 +61,7 @@ setReadOnly( ns, 'iterawln', require( '@stdlib/simulate/iter/awln' ) );
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/awun}
 */
-setReadOnly( ns, 'iterawun', require( '@stdlib/simulate/iter/awun' ) );
+setReadOnly( ns, 'iterawun', require( './../../iter/awun' ) );
 
 /**
 * @name iterBartlettHannPulse
@@ -70,7 +70,7 @@ setReadOnly( ns, 'iterawun', require( '@stdlib/simulate/iter/awun' ) );
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/bartlett-hann-pulse}
 */
-setReadOnly( ns, 'iterBartlettHannPulse', require( '@stdlib/simulate/iter/bartlett-hann-pulse' ) );
+setReadOnly( ns, 'iterBartlettHannPulse', require( './../../iter/bartlett-hann-pulse' ) );
 
 /**
 * @name iterBartlettPulse
@@ -79,7 +79,7 @@ setReadOnly( ns, 'iterBartlettHannPulse', require( '@stdlib/simulate/iter/bartle
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/bartlett-pulse}
 */
-setReadOnly( ns, 'iterBartlettPulse', require( '@stdlib/simulate/iter/bartlett-pulse' ) );
+setReadOnly( ns, 'iterBartlettPulse', require( './../../iter/bartlett-pulse' ) );
 
 /**
 * @name iterCosineWave
@@ -88,7 +88,7 @@ setReadOnly( ns, 'iterBartlettPulse', require( '@stdlib/simulate/iter/bartlett-p
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/cosine-wave}
 */
-setReadOnly( ns, 'iterCosineWave', require( '@stdlib/simulate/iter/cosine-wave' ) );
+setReadOnly( ns, 'iterCosineWave', require( './../../iter/cosine-wave' ) );
 
 /**
 * @name iterDiracComb
@@ -97,7 +97,7 @@ setReadOnly( ns, 'iterCosineWave', require( '@stdlib/simulate/iter/cosine-wave' 
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/dirac-comb}
 */
-setReadOnly( ns, 'iterDiracComb', require( '@stdlib/simulate/iter/dirac-comb' ) );
+setReadOnly( ns, 'iterDiracComb', require( './../../iter/dirac-comb' ) );
 
 /**
 * @name iterFlatTopPulse
@@ -106,7 +106,7 @@ setReadOnly( ns, 'iterDiracComb', require( '@stdlib/simulate/iter/dirac-comb' ) 
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/flat-top-pulse}
 */
-setReadOnly( ns, 'iterFlatTopPulse', require( '@stdlib/simulate/iter/flat-top-pulse' ) );
+setReadOnly( ns, 'iterFlatTopPulse', require( './../../iter/flat-top-pulse' ) );
 
 /**
 * @name iterHannPulse
@@ -115,7 +115,7 @@ setReadOnly( ns, 'iterFlatTopPulse', require( '@stdlib/simulate/iter/flat-top-pu
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/hann-pulse}
 */
-setReadOnly( ns, 'iterHannPulse', require( '@stdlib/simulate/iter/hann-pulse' ) );
+setReadOnly( ns, 'iterHannPulse', require( './../../iter/hann-pulse' ) );
 
 /**
 * @name iterLanczosPulse
@@ -124,7 +124,7 @@ setReadOnly( ns, 'iterHannPulse', require( '@stdlib/simulate/iter/hann-pulse' ) 
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/lanczos-pulse}
 */
-setReadOnly( ns, 'iterLanczosPulse', require( '@stdlib/simulate/iter/lanczos-pulse' ) );
+setReadOnly( ns, 'iterLanczosPulse', require( './../../iter/lanczos-pulse' ) );
 
 /**
 * @name iterPeriodicSinc
@@ -133,7 +133,7 @@ setReadOnly( ns, 'iterLanczosPulse', require( '@stdlib/simulate/iter/lanczos-pul
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/periodic-sinc}
 */
-setReadOnly( ns, 'iterPeriodicSinc', require( '@stdlib/simulate/iter/periodic-sinc' ) );
+setReadOnly( ns, 'iterPeriodicSinc', require( './../../iter/periodic-sinc' ) );
 
 /**
 * @name iterPulse
@@ -142,7 +142,7 @@ setReadOnly( ns, 'iterPeriodicSinc', require( '@stdlib/simulate/iter/periodic-si
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/pulse}
 */
-setReadOnly( ns, 'iterPulse', require( '@stdlib/simulate/iter/pulse' ) );
+setReadOnly( ns, 'iterPulse', require( './../../iter/pulse' ) );
 
 /**
 * @name iterSawtoothWave
@@ -151,7 +151,7 @@ setReadOnly( ns, 'iterPulse', require( '@stdlib/simulate/iter/pulse' ) );
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/sawtooth-wave}
 */
-setReadOnly( ns, 'iterSawtoothWave', require( '@stdlib/simulate/iter/sawtooth-wave' ) );
+setReadOnly( ns, 'iterSawtoothWave', require( './../../iter/sawtooth-wave' ) );
 
 /**
 * @name iterSineWave
@@ -160,7 +160,7 @@ setReadOnly( ns, 'iterSawtoothWave', require( '@stdlib/simulate/iter/sawtooth-wa
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/sine-wave}
 */
-setReadOnly( ns, 'iterSineWave', require( '@stdlib/simulate/iter/sine-wave' ) );
+setReadOnly( ns, 'iterSineWave', require( './../../iter/sine-wave' ) );
 
 /**
 * @name iterSquareWave
@@ -169,7 +169,7 @@ setReadOnly( ns, 'iterSineWave', require( '@stdlib/simulate/iter/sine-wave' ) );
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/square-wave}
 */
-setReadOnly( ns, 'iterSquareWave', require( '@stdlib/simulate/iter/square-wave' ) );
+setReadOnly( ns, 'iterSquareWave', require( './../../iter/square-wave' ) );
 
 /**
 * @name iterTriangleWave
@@ -178,7 +178,7 @@ setReadOnly( ns, 'iterSquareWave', require( '@stdlib/simulate/iter/square-wave' 
 * @type {Function}
 * @see {@link module:@stdlib/simulate/iter/triangle-wave}
 */
-setReadOnly( ns, 'iterTriangleWave', require( '@stdlib/simulate/iter/triangle-wave' ) );
+setReadOnly( ns, 'iterTriangleWave', require( './../../iter/triangle-wave' ) );
 
 
 // EXPORTS //

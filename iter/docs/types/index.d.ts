@@ -21,22 +21,22 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import iterawgn = require( '@stdlib/simulate/iter/awgn' );
-import iterawln = require( '@stdlib/simulate/iter/awln' );
-import iterawun = require( '@stdlib/simulate/iter/awun' );
-import iterBartlettHannPulse = require( '@stdlib/simulate/iter/bartlett-hann-pulse' );
-import iterBartlettPulse = require( '@stdlib/simulate/iter/bartlett-pulse' );
-import iterCosineWave = require( '@stdlib/simulate/iter/cosine-wave' );
-import iterDiracComb = require( '@stdlib/simulate/iter/dirac-comb' );
-import iterFlatTopPulse = require( '@stdlib/simulate/iter/flat-top-pulse' );
-import iterHannPulse = require( '@stdlib/simulate/iter/hann-pulse' );
-import iterLanczosPulse = require( '@stdlib/simulate/iter/lanczos-pulse' );
-import iterPeriodicSinc = require( '@stdlib/simulate/iter/periodic-sinc' );
-import iterPulse = require( '@stdlib/simulate/iter/pulse' );
-import iterSawtoothWave = require( '@stdlib/simulate/iter/sawtooth-wave' );
-import iterSineWave = require( '@stdlib/simulate/iter/sine-wave' );
-import iterSquareWave = require( '@stdlib/simulate/iter/square-wave' );
-import iterTriangleWave = require( '@stdlib/simulate/iter/triangle-wave' );
+import iterawgn = require( './../../../iter/awgn' );
+import iterawln = require( './../../../iter/awln' );
+import iterawun = require( './../../../iter/awun' );
+import iterBartlettHannPulse = require( './../../../iter/bartlett-hann-pulse' );
+import iterBartlettPulse = require( './../../../iter/bartlett-pulse' );
+import iterCosineWave = require( './../../../iter/cosine-wave' );
+import iterDiracComb = require( './../../../iter/dirac-comb' );
+import iterFlatTopPulse = require( './../../../iter/flat-top-pulse' );
+import iterHannPulse = require( './../../../iter/hann-pulse' );
+import iterLanczosPulse = require( './../../../iter/lanczos-pulse' );
+import iterPeriodicSinc = require( './../../../iter/periodic-sinc' );
+import iterPulse = require( './../../../iter/pulse' );
+import iterSawtoothWave = require( './../../../iter/sawtooth-wave' );
+import iterSineWave = require( './../../../iter/sine-wave' );
+import iterSquareWave = require( './../../../iter/square-wave' );
+import iterTriangleWave = require( './../../../iter/triangle-wave' );
 
 /**
 * Interface describing the `iter` namespace.
