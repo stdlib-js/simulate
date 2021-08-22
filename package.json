@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/simulate",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Standard library simulation utilities.",
   "license": "Apache-2.0",
   "author": {
@@ -36,13 +36,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert": "github:stdlib-js/assert",
-    "@stdlib/constants": "github:stdlib-js/constants",
-    "@stdlib/math": "github:stdlib-js/math",
-    "@stdlib/random": "github:stdlib-js/random",
-    "@stdlib/symbol": "github:stdlib-js/symbol",
-    "@stdlib/types": "github:stdlib-js/types",
-    "@stdlib/utils": "github:stdlib-js/utils"
+    "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/constants": "github:stdlib-js/constants#main",
+    "@stdlib/math": "github:stdlib-js/math#main",
+    "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/symbol": "github:stdlib-js/symbol#main",
+    "@stdlib/types": "github:stdlib-js/types#main",
+    "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
     "@stdlib/array": "github:stdlib-js/array",
