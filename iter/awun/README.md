@@ -200,6 +200,21 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/simulate/iter/awgn`][@stdlib/simulate/iter/awgn]: https://github.com/stdlib-js/simulate/tree/main/iter/awgn`][@stdlib/simulate/iter/awgn
+-   [`@stdlib/simulate/iter/awln`][@stdlib/simulate/iter/awln]: https://github.com/stdlib-js/simulate/tree/main/iter/awln`][@stdlib/simulate/iter/awln
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
@@ -209,6 +224,14 @@ while ( true ) {
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 [@stdlib/random/base/mt19937]: https://github.com/stdlib-js/random-base-mt19937
+
+<!-- <related-links> -->
+
+[@stdlib/simulate/iter/awgn]: https://github.com/stdlib-js/simulate/tree/main/iter/awgn
+
+[@stdlib/simulate/iter/awln]: https://github.com/stdlib-js/simulate/tree/main/iter/awln
+
+<!-- </related-links> -->
 
 </section>
 

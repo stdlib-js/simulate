@@ -270,11 +270,31 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/simulate/iter/sine-wave`][@stdlib/simulate/iter/sine-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/sine-wave`][@stdlib/simulate/iter/sine-wave
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
 
 [@stdlib/math/base/special/sinc]: https://github.com/stdlib-js/math-base-special-sinc
+
+<!-- <related-links> -->
+
+[@stdlib/simulate/iter/sine-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/sine-wave
+
+<!-- </related-links> -->
 
 </section>
 

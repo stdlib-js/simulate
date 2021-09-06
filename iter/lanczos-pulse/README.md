@@ -293,9 +293,32 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse`][@stdlib/simulate/iter/pulse
+-   [`@stdlib/simulate/iter/periodic-sinc`][@stdlib/simulate/iter/periodic-sinc]: https://github.com/stdlib-js/simulate/tree/main/iter/periodic-sinc`][@stdlib/simulate/iter/periodic-sinc
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse
+
+[@stdlib/simulate/iter/periodic-sinc]: https://github.com/stdlib-js/simulate/tree/main/iter/periodic-sinc
+
+<!-- </related-links> -->
 
 </section>
 

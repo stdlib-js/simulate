@@ -293,9 +293,38 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/simulate/iter/bartlett-pulse`][@stdlib/simulate/iter/bartlett-pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/bartlett-pulse`][@stdlib/simulate/iter/bartlett-pulse
+-   [`@stdlib/simulate/iter/hann-pulse`][@stdlib/simulate/iter/hann-pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/hann-pulse`][@stdlib/simulate/iter/hann-pulse
+-   [`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse`][@stdlib/simulate/iter/pulse
+-   [`@stdlib/simulate/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/simulate/iter/bartlett-pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/bartlett-pulse
+
+[@stdlib/simulate/iter/hann-pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/hann-pulse
+
+[@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse
+
+[@stdlib/simulate/iter/triangle-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/triangle-wave
+
+<!-- </related-links> -->
 
 </section>
 
