@@ -301,10 +301,10 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/simulate/iter/bartlett-pulse`][@stdlib/simulate/iter/bartlett-pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/bartlett-pulse`][@stdlib/simulate/iter/bartlett-pulse
--   [`@stdlib/simulate/iter/hann-pulse`][@stdlib/simulate/iter/hann-pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/hann-pulse`][@stdlib/simulate/iter/hann-pulse
--   [`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse`][@stdlib/simulate/iter/pulse
--   [`@stdlib/simulate/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave
+-   <span class="package-name">[`@stdlib/simulate/iter/bartlett-pulse`][@stdlib/simulate/iter/bartlett-pulse]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a Bartlett pulse waveform.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/hann-pulse`][@stdlib/simulate/iter/hann-pulse]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a Hann pulse waveform.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a pulse waveform.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a triangle wave.</span>
 
 </section>
 

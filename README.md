@@ -20,9 +20,9 @@ limitations under the License.
 
 # Simulation
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Standard library simulation utilities.
+> Simulation utilities.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var simulate = require( '@stdlib/simulate' );
 
 #### simulate
 
-Standard library simulation utilities.
+Namespace containing simulation utilities.
 
 ```javascript
 var ns = simulate;
@@ -57,7 +57,7 @@ The namespace contains the following:
 
 <div class="namespace-toc">
 
--   <span class="signature">[`iterators`][@stdlib/simulate/iter]</span><span class="delimiter">: </span><span class="description">standard library simulation iterators.</span>
+-   <span class="signature">[`iterators`][@stdlib/simulate/iter]</span><span class="delimiter">: </span><span class="description">simulation iterators.</span>
 
 </div>
 
@@ -139,8 +139,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/simulate/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/simulate?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/simulate.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/simulate/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/

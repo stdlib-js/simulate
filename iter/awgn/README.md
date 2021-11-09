@@ -208,8 +208,8 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/simulate/iter/awln`][@stdlib/simulate/iter/awln]: https://github.com/stdlib-js/simulate/tree/main/iter/awln`][@stdlib/simulate/iter/awln
--   [`@stdlib/simulate/iter/awun`][@stdlib/simulate/iter/awun]: https://github.com/stdlib-js/simulate/tree/main/iter/awun`][@stdlib/simulate/iter/awun
+-   <span class="package-name">[`@stdlib/simulate/iter/awln`][@stdlib/simulate/iter/awln]</span><span class="delimiter">: </span><span class="description">create an iterator which introduces additive white Laplacian noise.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/awun`][@stdlib/simulate/iter/awun]</span><span class="delimiter">: </span><span class="description">create an iterator which introduces additive white uniform noise.</span>
 
 </section>
 

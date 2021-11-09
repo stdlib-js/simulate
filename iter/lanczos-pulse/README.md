@@ -301,8 +301,8 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse`][@stdlib/simulate/iter/pulse
--   [`@stdlib/simulate/iter/periodic-sinc`][@stdlib/simulate/iter/periodic-sinc]: https://github.com/stdlib-js/simulate/tree/main/iter/periodic-sinc`][@stdlib/simulate/iter/periodic-sinc
+-   <span class="package-name">[`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a pulse waveform.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/periodic-sinc`][@stdlib/simulate/iter/periodic-sinc]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a periodic sinc waveform.</span>
 
 </section>
 

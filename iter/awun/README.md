@@ -208,8 +208,8 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/simulate/iter/awgn`][@stdlib/simulate/iter/awgn]: https://github.com/stdlib-js/simulate/tree/main/iter/awgn`][@stdlib/simulate/iter/awgn
--   [`@stdlib/simulate/iter/awln`][@stdlib/simulate/iter/awln]: https://github.com/stdlib-js/simulate/tree/main/iter/awln`][@stdlib/simulate/iter/awln
+-   <span class="package-name">[`@stdlib/simulate/iter/awgn`][@stdlib/simulate/iter/awgn]</span><span class="delimiter">: </span><span class="description">create an iterator which introduces additive white Gaussian noise.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/awln`][@stdlib/simulate/iter/awln]</span><span class="delimiter">: </span><span class="description">create an iterator which introduces additive white Laplacian noise.</span>
 
 </section>
 

@@ -301,9 +301,9 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/simulate/iter/bartlett-hann-pulse`][@stdlib/simulate/iter/bartlett-hann-pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/bartlett-hann-pulse`][@stdlib/simulate/iter/bartlett-hann-pulse
--   [`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse`][@stdlib/simulate/iter/pulse
--   [`@stdlib/simulate/iter/sine-wave`][@stdlib/simulate/iter/sine-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/sine-wave`][@stdlib/simulate/iter/sine-wave
+-   <span class="package-name">[`@stdlib/simulate/iter/bartlett-hann-pulse`][@stdlib/simulate/iter/bartlett-hann-pulse]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a Bartlett-Hann pulse waveform.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a pulse waveform.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/sine-wave`][@stdlib/simulate/iter/sine-wave]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sine wave.</span>
 
 </section>
 

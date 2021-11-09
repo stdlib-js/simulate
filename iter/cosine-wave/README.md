@@ -259,11 +259,11 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]: https://github.com/stdlib-js/simulate/tree/main/iter/pulse`][@stdlib/simulate/iter/pulse
--   [`@stdlib/simulate/iter/sawtooth-wave`][@stdlib/simulate/iter/sawtooth-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/sawtooth-wave`][@stdlib/simulate/iter/sawtooth-wave
--   [`@stdlib/simulate/iter/sine-wave`][@stdlib/simulate/iter/sine-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/sine-wave`][@stdlib/simulate/iter/sine-wave
--   [`@stdlib/simulate/iter/square-wave`][@stdlib/simulate/iter/square-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/square-wave`][@stdlib/simulate/iter/square-wave
--   [`@stdlib/simulate/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave]: https://github.com/stdlib-js/simulate/tree/main/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave
+-   <span class="package-name">[`@stdlib/simulate/iter/pulse`][@stdlib/simulate/iter/pulse]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a pulse waveform.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/sawtooth-wave`][@stdlib/simulate/iter/sawtooth-wave]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sawtooth wave.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/sine-wave`][@stdlib/simulate/iter/sine-wave]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a sine wave.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/square-wave`][@stdlib/simulate/iter/square-wave]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a square wave.</span>
+-   <span class="package-name">[`@stdlib/simulate/iter/triangle-wave`][@stdlib/simulate/iter/triangle-wave]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a triangle wave.</span>
 
 </section>
 
