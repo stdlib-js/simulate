@@ -40,6 +40,7 @@
     "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/math": "github:stdlib-js/math#main",
     "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/string": "github:stdlib-js/string#main",
     "@stdlib/symbol": "github:stdlib-js/symbol#main",
     "@stdlib/types": "github:stdlib-js/types#main",
     "@stdlib/utils": "github:stdlib-js/utils#main"
