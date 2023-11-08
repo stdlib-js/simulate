@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import simulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@deno/mod.js';
+import simulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { iterators } from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@deno/mod.js';
+import { iterators } from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.1.0-deno/mod.js';
 ```
 
 #### simulate
@@ -86,7 +86,7 @@ The namespace contains the following:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.1.0-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
