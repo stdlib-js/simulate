@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import simulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@esm/index.mjs';
+import simulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { iterators } from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@esm/index.mjs';
+import { iterators } from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.1.0-esm/index.mjs';
 ```
 
 #### simulate
@@ -91,7 +91,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.1.0-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
