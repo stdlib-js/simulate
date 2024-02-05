@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import simulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/simulate/tags). For example,
+
+```javascript
 import simulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { iterators } from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.2.1-esm/index.mjs';
+import { iterators } from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@esm/index.mjs';
 ```
 
 #### simulate
@@ -91,7 +96,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@v0.2.1-esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate@esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
