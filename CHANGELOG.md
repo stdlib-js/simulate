@@ -2,16 +2,6 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
-
-## Unreleased (2025-03-10)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
 <section class="release" id="v0.3.3">
 
 ## 0.3.3 (2024-11-05)
@@ -25,26 +15,6 @@ No changes reported for this release.
 <section class="release" id="v0.3.2">
 
 ## 0.3.2 (2024-11-05)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -60,6 +30,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -99,26 +81,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-05)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -133,6 +95,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -152,589 +126,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-11-08)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="simulate-v0.1.0">
-
-#### [@stdlib/simulate](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-v0.1.0">
-
-#### [@stdlib/simulate/iter](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-awgn-v0.1.0">
-
-#### [@stdlib/simulate/iter/awgn](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/awgn)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-awln-v0.1.0">
-
-#### [@stdlib/simulate/iter/awln](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/awln)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-awun-v0.1.0">
-
-#### [@stdlib/simulate/iter/awun](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/awun)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-bartlett-hann-pulse-v0.1.0">
-
-#### [@stdlib/simulate/iter/bartlett-hann-pulse](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/bartlett-hann-pulse)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-bartlett-pulse-v0.1.0">
-
-#### [@stdlib/simulate/iter/bartlett-pulse](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/bartlett-pulse)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-cosine-wave-v0.1.0">
-
-#### [@stdlib/simulate/iter/cosine-wave](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/cosine-wave)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-dirac-comb-v0.1.0">
-
-#### [@stdlib/simulate/iter/dirac-comb](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/dirac-comb)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-flat-top-pulse-v0.1.0">
-
-#### [@stdlib/simulate/iter/flat-top-pulse](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/flat-top-pulse)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-hann-pulse-v0.1.0">
-
-#### [@stdlib/simulate/iter/hann-pulse](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/hann-pulse)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-lanczos-pulse-v0.1.0">
-
-#### [@stdlib/simulate/iter/lanczos-pulse](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/lanczos-pulse)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-periodic-sinc-v0.1.0">
-
-#### [@stdlib/simulate/iter/periodic-sinc](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/periodic-sinc)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-pulse-v0.1.0">
-
-#### [@stdlib/simulate/iter/pulse](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/pulse)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-sawtooth-wave-v0.1.0">
-
-#### [@stdlib/simulate/iter/sawtooth-wave](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/sawtooth-wave)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-sine-wave-v0.1.0">
-
-#### [@stdlib/simulate/iter/sine-wave](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/sine-wave)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-square-wave-v0.1.0">
-
-#### [@stdlib/simulate/iter/square-wave](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/square-wave)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="simulate-iter-triangle-wave-v0.1.0">
-
-#### [@stdlib/simulate/iter/triangle-wave](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/simulate/iter/triangle-wave)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`d830266`](https://github.com/stdlib-js/stdlib/commit/d83026673b02c3408369e5ea497fe07744ba64ed): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -745,18 +145,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -777,6 +165,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
