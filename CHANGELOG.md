@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-18)
+## Unreleased (2026-05-31)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a798978`](https://github.com/stdlib-js/stdlib/commit/a79897842a2e5173b83d293a967f9629a56942f5) - **docs:** update equation [(#12398)](https://github.com/stdlib-js/stdlib/pull/12398) _(by Athan Reines)_
 -   [`e997446`](https://github.com/stdlib-js/stdlib/commit/e997446d98bf546c0220bad7a7f11b63c6944e35) - **bench:** refactor to use string interpolation in `simulate` [(#11591)](https://github.com/stdlib-js/stdlib/pull/11591) _(by Karan Anand)_
 -   [`3e6159b`](https://github.com/stdlib-js/stdlib/commit/3e6159bbb50ef50bf9ef464e99a207fa3878995d) - **docs:** resolve doctest errors in TSDoc _(by Philipp Burckhardt)_
 -   [`8cea287`](https://github.com/stdlib-js/stdlib/commit/8cea2870cc30848a616b76259b3274caae387b10) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
@@ -29,8 +30,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
