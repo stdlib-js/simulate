@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-25)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5656376`](https://github.com/stdlib-js/stdlib/commit/565637699b24253dc5d6bd0d4daf10f8bb49b5b7) - **test:** migrate `simulate/iter/bartlett-hann-pulse` to ULP-based assertions [(#14614)](https://github.com/stdlib-js/stdlib/pull/14614) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.4.1">
 
 ## 0.4.1 (2026-06-05)
