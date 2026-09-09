@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-25)
+## Unreleased (2026-09-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`10dd715`](https://github.com/stdlib-js/stdlib/commit/10dd715a1462fd7c2b7ca0ed043d31d54566c2ae) - **test:** migrate `simulate/iter/sawtooth-wave` to ULP-based assertions [(#15109)](https://github.com/stdlib-js/stdlib/pull/15109) _(by Athan Reines)_
 -   [`5656376`](https://github.com/stdlib-js/stdlib/commit/565637699b24253dc5d6bd0d4daf10f8bb49b5b7) - **test:** migrate `simulate/iter/bartlett-hann-pulse` to ULP-based assertions [(#14614)](https://github.com/stdlib-js/stdlib/pull/14614) _(by Athan Reines)_
 
 </details>
