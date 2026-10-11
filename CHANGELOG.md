@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-02)
+## Unreleased (2026-10-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`53c9ef7`](https://github.com/stdlib-js/stdlib/commit/53c9ef78935c9f30f3c777f216dfe35564130618) - **docs:** fix documented default [(#15961)](https://github.com/stdlib-js/stdlib/pull/15961) _(by Philipp Burckhardt)_
 -   [`8ff7dce`](https://github.com/stdlib-js/stdlib/commit/8ff7dced7180f7d743c660b578f0bc7c53e84f6a) - **test:** migrate `simulate/iter/periodic-sinc` to ULP-based assertions [(#15819)](https://github.com/stdlib-js/stdlib/pull/15819) _(by Athan Reines)_
 -   [`19f0185`](https://github.com/stdlib-js/stdlib/commit/19f01851d123686afabbe4715c2786a9c2db684b) - **test:** migrate `simulate/iter/cosine-wave` to ULP-based assertions [(#15592)](https://github.com/stdlib-js/stdlib/pull/15592) _(by Athan Reines)_
 -   [`4a73a48`](https://github.com/stdlib-js/stdlib/commit/4a73a48c1f28816538ad016f5b43f6a96de31523) - **test:** migrate `simulate/iter/triangle-wave` to ULP-based assertions [(#15571)](https://github.com/stdlib-js/stdlib/pull/15571) _(by Athan Reines)_
@@ -30,9 +31,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
