@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-11)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`4eddd51`](https://github.com/stdlib-js/stdlib/commit/4eddd515793665822a376c7cd7b9b886ae709a47) - **test:** migrate `simulate/iter/lanczos-pulse` to ULP-based assertions [(#15931)](https://github.com/stdlib-js/stdlib/pull/15931) _(by Athan Reines)_
 -   [`53c9ef7`](https://github.com/stdlib-js/stdlib/commit/53c9ef78935c9f30f3c777f216dfe35564130618) - **docs:** fix documented default [(#15961)](https://github.com/stdlib-js/stdlib/pull/15961) _(by Philipp Burckhardt)_
 -   [`8ff7dce`](https://github.com/stdlib-js/stdlib/commit/8ff7dced7180f7d743c660b578f0bc7c53e84f6a) - **test:** migrate `simulate/iter/periodic-sinc` to ULP-based assertions [(#15819)](https://github.com/stdlib-js/stdlib/pull/15819) _(by Athan Reines)_
 -   [`19f0185`](https://github.com/stdlib-js/stdlib/commit/19f01851d123686afabbe4715c2786a9c2db684b) - **test:** migrate `simulate/iter/cosine-wave` to ULP-based assertions [(#15592)](https://github.com/stdlib-js/stdlib/pull/15592) _(by Athan Reines)_
