@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`677455a`](https://github.com/stdlib-js/stdlib/commit/677455a85e9fec4ab0e6050cf8d9c6157c29f5d7) - **test:** migrate `simulate/iter/bartlett-pulse` to ULP-based assertions [(#15903)](https://github.com/stdlib-js/stdlib/pull/15903) _(by Athan Reines)_
 -   [`4eddd51`](https://github.com/stdlib-js/stdlib/commit/4eddd515793665822a376c7cd7b9b886ae709a47) - **test:** migrate `simulate/iter/lanczos-pulse` to ULP-based assertions [(#15931)](https://github.com/stdlib-js/stdlib/pull/15931) _(by Athan Reines)_
 -   [`53c9ef7`](https://github.com/stdlib-js/stdlib/commit/53c9ef78935c9f30f3c777f216dfe35564130618) - **docs:** fix documented default [(#15961)](https://github.com/stdlib-js/stdlib/pull/15961) _(by Philipp Burckhardt)_
 -   [`8ff7dce`](https://github.com/stdlib-js/stdlib/commit/8ff7dced7180f7d743c660b578f0bc7c53e84f6a) - **test:** migrate `simulate/iter/periodic-sinc` to ULP-based assertions [(#15819)](https://github.com/stdlib-js/stdlib/pull/15819) _(by Athan Reines)_
